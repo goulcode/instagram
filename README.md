@@ -1,2 +1,5 @@
 # instagram
-Recriando a página inicial do instagram
+
+Página inicial do instagram recriada utilizando HTML e CSS!
+
+![](readme/result.png)
