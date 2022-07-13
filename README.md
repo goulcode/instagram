@@ -1,4 +1,4 @@
-# instagram
+# Instagram
 
 Página inicial do instagram recriada utilizando HTML e CSS!
 
